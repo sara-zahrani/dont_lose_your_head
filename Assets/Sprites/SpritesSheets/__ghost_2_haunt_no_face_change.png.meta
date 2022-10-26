@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ce06f90cd33dc5045a57851471d4ed8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5045240447698009286
+    second: __ghost_2_haunt_no_face_change_0
+  - first:
+      213: 6883124225101145536
+    second: __ghost_2_haunt_no_face_change_1
+  - first:
+      213: 3194524415949070078
+    second: __ghost_2_haunt_no_face_change_2
+  - first:
+      213: 6912299105262936865
+    second: __ghost_2_haunt_no_face_change_3
+  - first:
+      213: -2257030841109664575
+    second: __ghost_2_haunt_no_face_change_4
+  - first:
+      213: -853757309552125991
+    second: __ghost_2_haunt_no_face_change_5
+  - first:
+      213: 2131001600365802752
+    second: __ghost_2_haunt_no_face_change_6
+  - first:
+      213: 933429714389776848
+    second: __ghost_2_haunt_no_face_change_7
+  - first:
+      213: 8899248283275688784
+    second: __ghost_2_haunt_no_face_change_8
+  - first:
+      213: -966096673696680324
+    second: __ghost_2_haunt_no_face_change_9
+  - first:
+      213: 7512740560873270487
+    second: __ghost_2_haunt_no_face_change_10
+  - first:
+      213: 7910179020201538542
+    second: __ghost_2_haunt_no_face_change_11
+  - first:
+      213: -71252136506419455
+    second: __ghost_2_haunt_no_face_change_12
+  - first:
+      213: 3480562991956225349
+    second: __ghost_2_haunt_no_face_change_13
+  - first:
+      213: -6721013692001215271
+    second: __ghost_2_haunt_no_face_change_14
+  - first:
+      213: -3803792783329853217
+    second: __ghost_2_haunt_no_face_change_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3089
+        width: 494
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33078c2b84bbf9b0800000000000000
+      internalID: -5045240447698009286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_1
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3091
+        width: 485
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52a0ea305c58f50800000000000000
+      internalID: 6883124225101145536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3093
+        width: 478
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efed4fee70b355c20800000000000000
+      internalID: 3194524415949070078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_3
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3095
+        width: 474
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a27ec96b6def50800000000000000
+      internalID: 6912299105262936865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2097
+        width: 473
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccae84886a6da0e0800000000000000
+      internalID: -2257030841109664575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_5
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2099
+        width: 474
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d790c71048d624f0800000000000000
+      internalID: -853757309552125991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_6
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2101
+        width: 477
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b79d3aa6d29d10800000000000000
+      internalID: 2131001600365802752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_7
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 2103
+        width: 484
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93ff4316534fc00800000000000000
+      internalID: 933429714389776848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1106
+        width: 495
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf6a4d92b708b70800000000000000
+      internalID: 8899248283275688784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1105
+        width: 488
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767f91a13cb792f0800000000000000
+      internalID: -966096673696680324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_10
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1101
+        width: 479
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc25846cbd924860800000000000000
+      internalID: 7512740560873270487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_11
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1099
+        width: 474
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33cd0b8e996cd60800000000000000
+      internalID: 7910179020201538542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 97
+        width: 475
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071c023f8cd20ff0800000000000000
+      internalID: -71252136506419455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 95
+        width: 473
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54debe1b9917d4030800000000000000
+      internalID: 3480562991956225349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_14
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 93
+        width: 476
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1bb518a92ab2a0800000000000000
+      internalID: -6721013692001215271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_2_haunt_no_face_change_15
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 91
+        width: 485
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00e6eed96363bc0800000000000000
+      internalID: -3803792783329853217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      __ghost_2_haunt_no_face_change_8: 8899248283275688784
+      __ghost_2_haunt_no_face_change_11: 7910179020201538542
+      __ghost_2_haunt_no_face_change_2: 3194524415949070078
+      __ghost_2_haunt_no_face_change_12: -71252136506419455
+      __ghost_2_haunt_no_face_change_13: 3480562991956225349
+      __ghost_2_haunt_no_face_change_14: -6721013692001215271
+      __ghost_2_haunt_no_face_change_1: 6883124225101145536
+      __ghost_2_haunt_no_face_change_0: -5045240447698009286
+      __ghost_2_haunt_no_face_change_7: 933429714389776848
+      __ghost_2_haunt_no_face_change_9: -966096673696680324
+      __ghost_2_haunt_no_face_change_10: 7512740560873270487
+      __ghost_2_haunt_no_face_change_4: -2257030841109664575
+      __ghost_2_haunt_no_face_change_3: 6912299105262936865
+      __ghost_2_haunt_no_face_change_5: -853757309552125991
+      __ghost_2_haunt_no_face_change_15: -3803792783329853217
+      __ghost_2_haunt_no_face_change_6: 2131001600365802752
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

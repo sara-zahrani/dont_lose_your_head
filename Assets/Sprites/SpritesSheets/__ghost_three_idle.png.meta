@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 026cc64374097c343b23b37c9c8eeb3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6973752111435727442
+    second: __ghost_three_idle_0
+  - first:
+      213: 6314898424006605945
+    second: __ghost_three_idle_1
+  - first:
+      213: -3288390319072387398
+    second: __ghost_three_idle_2
+  - first:
+      213: 8661204195234804772
+    second: __ghost_three_idle_3
+  - first:
+      213: 8873994824800529143
+    second: __ghost_three_idle_4
+  - first:
+      213: -4247190407848035216
+    second: __ghost_three_idle_5
+  - first:
+      213: -7447081211438926252
+    second: __ghost_three_idle_6
+  - first:
+      213: 3794000102207284884
+    second: __ghost_three_idle_7
+  - first:
+      213: -1414579178129131184
+    second: __ghost_three_idle_8
+  - first:
+      213: 520396432694224877
+    second: __ghost_three_idle_9
+  - first:
+      213: -3419533267082201628
+    second: __ghost_three_idle_10
+  - first:
+      213: -682249375763149302
+    second: __ghost_three_idle_11
+  - first:
+      213: 6325803125370819153
+    second: __ghost_three_idle_12
+  - first:
+      213: 6677073787569133240
+    second: __ghost_three_idle_13
+  - first:
+      213: -2046844872131160270
+    second: __ghost_three_idle_14
+  - first:
+      213: -8049622938287962796
+    second: __ghost_three_idle_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __ghost_three_idle_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3266
+        width: 480
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3e363761483f90800000000000000
+      internalID: -6973752111435727442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3266
+        width: 480
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c769ba8a603a750800000000000000
+      internalID: 6314898424006605945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3268
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe5bdc6d6a4d52d0800000000000000
+      internalID: -3288390319072387398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3268
+        width: 478
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f7189357c23870800000000000000
+      internalID: 8661204195234804772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2181
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae3e6d643c62b70800000000000000
+      internalID: 8873994824800529143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2181
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c75ce93d2fe05c0800000000000000
+      internalID: -4247190407848035216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2183
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45672b23817a6a890800000000000000
+      internalID: -7447081211438926252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2183
+        width: 478
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4966cd1ddfef6a430800000000000000
+      internalID: 3794000102207284884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1095
+        width: 478
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f2f47bb76e5ce0800000000000000
+      internalID: -1414579178129131184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_9
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1094
+        width: 478
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ae116cc1d83700800000000000000
+      internalID: 520396432694224877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1094
+        width: 478
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e53fed6c906b80d0800000000000000
+      internalID: -3419533267082201628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_11
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1092
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ec765bec92886f0800000000000000
+      internalID: -682249375763149302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3
+        width: 480
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15298ce4d64c9c750800000000000000
+      internalID: 6325803125370819153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_13
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6512fab3bb9ac50800000000000000
+      internalID: 6677073787569133240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1
+        width: 478
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237da46fe652893e0800000000000000
+      internalID: -2046844872131160270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __ghost_three_idle_15
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 480
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455828b169ef94090800000000000000
+      internalID: -8049622938287962796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      __ghost_three_idle_0: -6973752111435727442
+      __ghost_three_idle_2: -3288390319072387398
+      __ghost_three_idle_5: -4247190407848035216
+      __ghost_three_idle_13: 6677073787569133240
+      __ghost_three_idle_15: -8049622938287962796
+      __ghost_three_idle_12: 6325803125370819153
+      __ghost_three_idle_6: -7447081211438926252
+      __ghost_three_idle_9: 520396432694224877
+      __ghost_three_idle_3: 8661204195234804772
+      __ghost_three_idle_8: -1414579178129131184
+      __ghost_three_idle_11: -682249375763149302
+      __ghost_three_idle_1: 6314898424006605945
+      __ghost_three_idle_7: 3794000102207284884
+      __ghost_three_idle_10: -3419533267082201628
+      __ghost_three_idle_14: -2046844872131160270
+      __ghost_three_idle_4: 8873994824800529143
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

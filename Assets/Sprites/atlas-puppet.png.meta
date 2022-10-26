@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: c785ab203aa44447396e06090f696062
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8393076452766340281
+    second: atlas-puppet_0
+  - first:
+      213: -9092152103881031628
+    second: atlas-puppet_1
+  - first:
+      213: -8858917749833338592
+    second: atlas-puppet_2
+  - first:
+      213: -7054336129635023142
+    second: atlas-puppet_3
+  - first:
+      213: -4974933089011917720
+    second: atlas-puppet_4
+  - first:
+      213: -1779541620417608915
+    second: atlas-puppet_5
+  - first:
+      213: 6294464991308624565
+    second: atlas-puppet_6
+  - first:
+      213: -2206866360261780014
+    second: atlas-puppet_7
+  - first:
+      213: -5794800211078643834
+    second: atlas-puppet_8
+  - first:
+      213: -4967236319857262271
+    second: atlas-puppet_9
+  - first:
+      213: 1090203778279250386
+    second: atlas-puppet_10
+  - first:
+      213: 6038279348596622618
+    second: atlas-puppet_11
+  - first:
+      213: 9218715825999647911
+    second: atlas-puppet_12
+  - first:
+      213: 8662158378870389363
+    second: atlas-puppet_13
+  - first:
+      213: -7605871015511928124
+    second: atlas-puppet_14
+  - first:
+      213: -4796632574099162093
+    second: atlas-puppet_15
+  - first:
+      213: -3235474809428958954
+    second: atlas-puppet_16
+  - first:
+      213: -412515641548924458
+    second: atlas-puppet_17
+  - first:
+      213: 5663652246165074435
+    second: atlas-puppet_18
+  - first:
+      213: 5351113353888117629
+    second: atlas-puppet_19
+  - first:
+      213: 8832170791467661785
+    second: atlas-puppet_20
+  - first:
+      213: -4673772932843200128
+    second: atlas-puppet_21
+  - first:
+      213: -6374515676689057938
+    second: atlas-puppet_22
+  - first:
+      213: -2049947577608777301
+    second: atlas-puppet_23
+  - first:
+      213: -3627386383001597842
+    second: atlas-puppet_24
+  - first:
+      213: 6695631777777570215
+    second: atlas-puppet_25
+  - first:
+      213: 3592337855094363483
+    second: atlas-puppet_26
+  - first:
+      213: 6019113214558592666
+    second: atlas-puppet_27
+  - first:
+      213: -8177610519389919414
+    second: atlas-puppet_28
+  - first:
+      213: 8859074069683738181
+    second: atlas-puppet_29
+  - first:
+      213: -3300880462453442040
+    second: atlas-puppet_30
+  - first:
+      213: 4355436142239153374
+    second: atlas-puppet_31
+  - first:
+      213: -5764140926050693388
+    second: atlas-puppet_32
+  - first:
+      213: -1024188011760591159
+    second: atlas-puppet_33
+  - first:
+      213: -4241954749613034136
+    second: atlas-puppet_34
+  - first:
+      213: -9125548462192924642
+    second: atlas-puppet_35
+  - first:
+      213: 110002725809167763
+    second: atlas-puppet_36
+  - first:
+      213: 8624014008913285351
+    second: atlas-puppet_37
+  - first:
+      213: 7806990729026632832
+    second: atlas-puppet_38
+  - first:
+      213: 7167587696453422363
+    second: atlas-puppet_39
+  - first:
+      213: 4792116986492217065
+    second: atlas-puppet_40
+  - first:
+      213: -1333090704595003427
+    second: atlas-puppet_41
+  - first:
+      213: -2448818464747439751
+    second: atlas-puppet_42
+  - first:
+      213: 2066673657668327108
+    second: atlas-puppet_43
+  - first:
+      213: -3340095109884784597
+    second: atlas-puppet_44
+  - first:
+      213: 94444592090458469
+    second: atlas-puppet_45
+  - first:
+      213: 7878298001559993145
+    second: atlas-puppet_46
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas-puppet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 218
+        height: 181
+      alignment: 9
+      pivot: {x: 0.56543636, y: 0.7711163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74baa244f6dc58b80800000000000000
+      internalID: -8393076452766340281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 317
+        width: 60
+        height: 115
+      alignment: 9
+      pivot: {x: 0.34124044, y: 0.8845735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c95475df22d180800000000000000
+      internalID: -9092152103881031628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 172
+        width: 179
+        height: 259
+      alignment: 9
+      pivot: {x: 0.8725092, y: 0.056032393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021f7ca3e3dce0580800000000000000
+      internalID: -8858917749833338592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 110
+        width: 38
+        height: 121
+      alignment: 9
+      pivot: {x: 0.62012714, y: 0.8725441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad686e26aa6f91e90800000000000000
+      internalID: -7054336129635023142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 134
+        height: 104
+      alignment: 9
+      pivot: {x: 0.772528, y: 0.28602248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c9b10c6bc75fab0800000000000000
+      internalID: -4974933089011917720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 198
+        width: 29
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5703862, y: 0.8563994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234cfb135ccd47e0800000000000000
+      internalID: -1779541620417608915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3
+        width: 27
+        height: 103
+      alignment: 9
+      pivot: {x: 0.33093143, y: 0.87671053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b235126f8e6a5750800000000000000
+      internalID: 6294464991308624565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 60
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6902018, y: 0.3149381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd56d1ecb2af51e0800000000000000
+      internalID: -2206866360261780014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 99
+        width: 59
+        height: 89
+      alignment: 9
+      pivot: {x: 0.84816575, y: 0.86544424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f7c4209ebb49fa0800000000000000
+      internalID: -5794800211078643834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 102
+        width: 52
+        height: 89
+      alignment: 9
+      pivot: {x: 0.3792936, y: 0.83338773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414d7772e4d01bb0800000000000000
+      internalID: -4967236319857262271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 83
+        width: 122
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6917605, y: 0.46342263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99f196f8e212f00800000000000000
+      internalID: 1090203778279250386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 82
+        height: 33
+      alignment: 9
+      pivot: {x: 0.8409716, y: 0.4135444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15cdab43174cc350800000000000000
+      internalID: 6038279348596622618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-puppet_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 137
+        height: 43
+      alignment: 9
+      pivot: {x: 0.10848888, y: 0.4867301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a41bfd63357fef70800000000000000
+      internalID: 9218715825999647911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas-puppet_10: 1090203778279250386
+      atlas-puppet_2: -8858917749833338592
+      atlas-puppet_11: 6038279348596622618
+      atlas-puppet_8: -5794800211078643834
+      atlas-puppet_1: -9092152103881031628
+      atlas-puppet_7: -2206866360261780014
+      atlas-puppet_6: 6294464991308624565
+      atlas-puppet_12: 9218715825999647911
+      atlas-puppet_5: -1779541620417608915
+      atlas-puppet_9: -4967236319857262271
+      atlas-puppet_0: -8393076452766340281
+      atlas-puppet_4: -4974933089011917720
+      atlas-puppet_3: -7054336129635023142
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

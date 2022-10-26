@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 7de9172b23add31468890b1af6c9ac35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8921729683337849866
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_0
+  - first:
+      213: 4537129654423836218
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_1
+  - first:
+      213: -7072440842112251776
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_2
+  - first:
+      213: -1716530750359974320
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_3
+  - first:
+      213: -8875654108095881797
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_4
+  - first:
+      213: -6127704898116974844
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_5
+  - first:
+      213: -2761776644735049829
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_6
+  - first:
+      213: 3289917983989955402
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_7
+  - first:
+      213: -5788872513685185903
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_8
+  - first:
+      213: 8804256029627258391
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_9
+  - first:
+      213: -5078716769957141356
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_10
+  - first:
+      213: 6173592062930475247
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_11
+  - first:
+      213: 4465429400058973558
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_12
+  - first:
+      213: -487038076789459447
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_13
+  - first:
+      213: 5587703502798458233
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_14
+  - first:
+      213: 2806098462746465897
+    second: spritesheet-skeleton-foottap-249px-by-679px-per-frame_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 250
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d6925f16af2480800000000000000
+      internalID: -8921729683337849866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2043
+        width: 249
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d2d7c16f17fe30800000000000000
+      internalID: 4537129654423836218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2040
+        width: 250
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884fe68684a9dd90800000000000000
+      internalID: -7072440842112251776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 2043
+        width: 247
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e42ca8068ad28e0800000000000000
+      internalID: -1716530750359974320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 250
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd55b92d9753d480800000000000000
+      internalID: -8875654108095881797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1361
+        width: 249
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40701537cd406faa0800000000000000
+      internalID: -6127704898116974844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1363
+        width: 248
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd89d26c23ca9d0800000000000000
+      internalID: -2761776644735049829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1363
+        width: 246
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf3e7c9f228ad20800000000000000
+      internalID: 3289917983989955402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 250
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a95cb9e1bc9afa0800000000000000
+      internalID: -5788872513685185903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 684
+        width: 248
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716168546300f2a70800000000000000
+      internalID: 8804256029627258391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 684
+        width: 248
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a2e38106c489b0800000000000000
+      internalID: -5078716769957141356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 684
+        width: 246
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8542ba5410da550800000000000000
+      internalID: 6173592062930475247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 250
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc918616468fd30800000000000000
+      internalID: 4465429400058973558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 248
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906ffd81371bd39f0800000000000000
+      internalID: -487038076789459447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3
+        width: 248
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d028a1bb28b8d40800000000000000
+      internalID: 5587703502798458233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet-skeleton-foottap-249px-by-679px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 5
+        width: 246
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d5cc3fa341f620800000000000000
+      internalID: 2806098462746465897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_11: 6173592062930475247
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_14: 5587703502798458233
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_12: 4465429400058973558
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_2: -7072440842112251776
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_4: -8875654108095881797
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_5: -6127704898116974844
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_7: 3289917983989955402
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_13: -487038076789459447
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_6: -2761776644735049829
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_8: -5788872513685185903
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_3: -1716530750359974320
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_10: -5078716769957141356
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_15: 2806098462746465897
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_9: 8804256029627258391
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_1: 4537129654423836218
+      spritesheet-skeleton-foottap-249px-by-679px-per-frame_0: -8921729683337849866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
